@@ -1,4 +1,4 @@
-##### This project consists of the overall outlook and the user interface of the project named Tirbuschon.
+### This project consists of the overall outlook and the user interface of the project named Tirbuschon.
 ##### Demo link: https://youtu.be/TrEZ_znUrEM
 
 ##### The things that are not included in the video are listed below:
