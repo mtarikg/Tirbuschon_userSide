@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import '../../../Restaurant/Screens/email_sender.dart';
+//import '../../../Restaurant/Screens/email_sender.dart';
 import '../../../MyWidgets/navigatorButtonCard.dart';
 import 'profileSettingsPage.dart';
 import '../../../welcomePage.dart';
@@ -36,8 +36,8 @@ class _SettingsPageState extends State<SettingsPage> {
               pageToNavigate: ProfileSettingsPage(), text: "Profile Settings"),
           const NavigatorButtonCard(
               pageToNavigate: PolicyPage(), text: "Policy Page"),
-          const NavigatorButtonCard(
-              pageToNavigate: EmailSender(), text: "Report a problem"),
+          /*const NavigatorButtonCard(
+              pageToNavigate: EmailSender(), text: "Report a problem"),*/
           LogOutCard(context: context),
         ],
       ),
